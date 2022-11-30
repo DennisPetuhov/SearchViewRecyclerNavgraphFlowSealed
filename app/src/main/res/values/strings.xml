@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SearchViewRecyclerNavgraphFlowSealed</string>
+    <string name="search1" />
+    <string name="search" />
+    <string name="first_fragment" />
+    <string name="second_fragment" />
+</resources>
